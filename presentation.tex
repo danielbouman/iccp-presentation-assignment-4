@@ -22,7 +22,7 @@
 		\tableofcontents[currentsection,currentsubsection]  % Generation of the Table of Contents
 	\end{frame}
 }
-% Define the title of each inserted pre-subsection frame
+% Define the title of each inserted pre-subsction frame
 \newcommand*\titleSubsec{Next Subsection}
 % Define the title of the "Table of Contents" frame
 \newcommand*\titleTOC{Outline}
@@ -49,9 +49,24 @@
 \section{First Section}
 \subsection{Section 1 - Subsection 1}
 
-\begin{frame}\frametitle{Section 1 - Subsection 1 - Page 1}
-	
+\begin{frame}\frametitle{The wave equation}
+	\begin{gather*}
+	\frac{\partial^2 y}{\partial t^2} = c^2\frac{\partial^2 y}{\partial x^2}-\kappa^2\frac{\partial^4y}{\partial x^4}-2b_1\frac{\partial y}{\partial t} + 2b_2 \frac{\partial^3y}{\partial x^2\partial t}\\
+\end{gather*}
 \end{frame}
+
+\begin{frame}\frametitle{The wave equation}
+	\begin{gather*}
+	\frac{\partial^2 y}{\partial t^2} = c^2\frac{\partial^2 y}{\partial x^2}-\kappa^2\frac{\partial^4y}{\partial x^4}-2b_1\frac{\partial y}{\partial t} + 2b_2 \frac{\partial^3y}{\partial x^2\partial t}\\
+y_n^{t+1} = a_1\left(y_{n+2}^t+y_{n-2}^t\right)+a_2\left(y_{n+1}^t+y_{n-1}^t\right)+a_3y_n^t\\
++a_4y_n^{t-1}+a_5\left(y_{n+1}^{t-1}+y_{n-1}^{t-1}\right)
+\end{gather*}
+\end{frame}
+
+
+
+
+
 
 \begin{frame}\frametitle{Section 1 - Subsection 1 - Page 2}
 	\begin{definition}
