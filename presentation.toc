@@ -2,4 +2,4 @@
 \select@language {english}
 \beamer@sectionintoc {1}{First Section}{3}{0}{1}
 \beamer@subsectionintoc {1}{1}{Section 1 - Subsection 1}{3}{0}{1}
-\beamer@subsectionintoc {1}{2}{Section 2 - Last Subsection}{14}{0}{1}
+\beamer@subsectionintoc {1}{2}{Section 2 - Last Subsection}{15}{0}{1}
