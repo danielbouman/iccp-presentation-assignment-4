@@ -10,10 +10,10 @@
 \usepackage[absolute,overlay]{textpos}
 \mode<presentation>{\usetheme{tud}}
 
-\title[Electric piano]{Electric piano}
+\title[Physics based piano simulation]{Physics based piano simulation}
 \subtitle{\normalsize{ICCP 2015}}
 \institute[TU Delft]{Delft University of Technology}
-\author{Selwyn Hanselman, Kenneth Goodenough, Dani\"{e}l Bouman}
+\author{Selwyn, Kenneth, Dani\"{e}l}
 \date{\today}
 
 % Insert frame before each subsection (requires 2 latex runs)
@@ -49,13 +49,21 @@
 \section{First Section}
 \subsection{Section 1 - Subsection 1}
 
+\begin{frame}\frametitle{Simplified piano string interaction}
+	
+		\begin{minipage}{1\textwidth}
+			% insert picture (pdf file)
+			\includegraphics[width=\textwidth]{images/string.pdf}
+		\end{minipage}
+\end{frame}
+
 \begin{frame}\frametitle{The wave equation}
 	\begin{gather*}
 	\frac{\partial^2 y}{\partial t^2} = c^2\frac{\partial^2 y}{\partial x^2}-\kappa^2\frac{\partial^4y}{\partial x^4}-2b_1\frac{\partial y}{\partial t} + 2b_2 \frac{\partial^3y}{\partial x^2\partial t}\\
 \end{gather*}
 \end{frame}
 
-\begin{frame}\frametitle{The wave equation}
+\begin{frame}\frametitle{Finite difference wave equation}
 	\begin{gather*}
 	\frac{\partial^2 y}{\partial t^2} = c^2\frac{\partial^2 y}{\partial x^2}-\kappa^2\frac{\partial^4y}{\partial x^4}-2b_1\frac{\partial y}{\partial t} + 2b_2 \frac{\partial^3y}{\partial x^2\partial t}\\
 y_n^{t+1} = a_1\left(y_{n+2}^t+y_{n-2}^t\right)+a_2\left(y_{n+1}^t+y_{n-1}^t\right)+a_3y_n^t\\
