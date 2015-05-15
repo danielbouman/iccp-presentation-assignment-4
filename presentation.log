@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.8.29)  15 MAY 2015 10:21
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.8.29)  15 MAY 2015 11:41
 entering extended mode
 **C:/Users/Kenneth/iccp-presentation-assignment-4/presentation.tex
 (C:/Users/Kenneth/iccp-presentation-assignment-4/presentation.tex
@@ -968,7 +968,7 @@ Dictionary: translator-theorem-dictionary, Language: English
 LaTeX Info: Redefining \includegraphics on input line 34.
 
 (C:\Users\Kenneth\iccp-presentation-assignment-4\presentation.nav)
-<images/tudelft_logo.pdf, id=36, 163.61125pt x 77.28876pt>
+<images/tudelft_logo.pdf, id=20, 163.61125pt x 77.28876pt>
 File: images/tudelft_logo.pdf Graphic file (type pdf)
 
 <use images/tudelft_logo.pdf>
@@ -986,7 +986,7 @@ Overfull \hbox (65.36195pt too wide) in paragraph at lines 34--34
 \dateBox=\box61
 \titleBoxWidth=\skip60
 \titleBoxInnerWidth=\skip61
-<images/background-titlepage.jpg, id=59, 1654.68187pt x 1114.1625pt>
+<images/background-titlepage.jpg, id=43, 1654.68187pt x 1114.1625pt>
 File: images/background-titlepage.jpg Graphic file (type jpg)
 
 <use images/background-titlepage.jpg>
@@ -1111,6 +1111,90 @@ Overfull \hbox (2.11945pt too wide) has occurred while \output is active
 [5
 
 ]
+Overfull \hbox (17.82637pt too wide) in paragraph at lines 68--68
+[]|  []  
+ []
+
+File: images/tudelft_logo.pdf Graphic file (type pdf)
+<use images/tudelft_logo.pdf>
+Package pdftex.def Info: images/tudelft_logo.pdf used on input line 68.
+(pdftex.def)             Requested size: 30.69476pt x 11.38109pt.
+
+Overfull \hbox (65.36195pt too wide) has occurred while \output is active
+ [][] \OT1/cmss/m/n/6 ([])  
+ []
+
+
+Overfull \hbox (2.11945pt too wide) has occurred while \output is active
+[] 
+ []
+
+[6
+
+]
+Overfull \hbox (17.82637pt too wide) in paragraph at lines 74--74
+[]|  []  
+ []
+
+File: images/tudelft_logo.pdf Graphic file (type pdf)
+<use images/tudelft_logo.pdf>
+Package pdftex.def Info: images/tudelft_logo.pdf used on input line 74.
+(pdftex.def)             Requested size: 30.69476pt x 11.38109pt.
+
+Overfull \hbox (65.36195pt too wide) has occurred while \output is active
+ [][] \OT1/cmss/m/n/6 ([])  
+ []
+
+
+Overfull \hbox (2.11945pt too wide) has occurred while \output is active
+[] 
+ []
+
+[7
+
+]
+Overfull \hbox (17.82637pt too wide) in paragraph at lines 78--78
+[]|  []  
+ []
+
+File: images/tudelft_logo.pdf Graphic file (type pdf)
+<use images/tudelft_logo.pdf>
+Package pdftex.def Info: images/tudelft_logo.pdf used on input line 78.
+(pdftex.def)             Requested size: 30.69476pt x 11.38109pt.
+
+Overfull \hbox (65.36195pt too wide) has occurred while \output is active
+ [][] \OT1/cmss/m/n/6 ([])  
+ []
+
+
+Overfull \hbox (2.11945pt too wide) has occurred while \output is active
+[] 
+ []
+
+[8
+
+]
+Overfull \hbox (17.82637pt too wide) in paragraph at lines 83--83
+[]|  []  
+ []
+
+File: images/tudelft_logo.pdf Graphic file (type pdf)
+<use images/tudelft_logo.pdf>
+Package pdftex.def Info: images/tudelft_logo.pdf used on input line 83.
+(pdftex.def)             Requested size: 30.69476pt x 11.38109pt.
+
+Overfull \hbox (65.36195pt too wide) has occurred while \output is active
+ [][] \OT1/cmss/m/n/6 ([])  
+ []
+
+
+Overfull \hbox (2.11945pt too wide) has occurred while \output is active
+[] 
+ []
+
+[9
+
+]
 Overfull \hbox (17.82637pt too wide) in paragraph at lines 87--87
 []|  []  
  []
@@ -1129,123 +1213,16 @@ Overfull \hbox (2.11945pt too wide) has occurred while \output is active
 [] 
  []
 
-[6
-
-] <images/ex2_quasi_polynomial.pdf, id=231, 257.96375pt x 245.91875pt>
-File: images/ex2_quasi_polynomial.pdf Graphic file (type pdf)
-
-<use images/ex2_quasi_polynomial.pdf>
-Package pdftex.def Info: images/ex2_quasi_polynomial.pdf used on input line 121
-.
-(pdftex.def)             Requested size: 128.60452pt x 122.60258pt.
-
-Overfull \hbox (17.82637pt too wide) in paragraph at lines 121--121
-[]|  []  
- []
-
-
-Overfull \vbox (14.15257pt too high) detected at line 121
- []
-
-File: images/tudelft_logo.pdf Graphic file (type pdf)
-<use images/tudelft_logo.pdf>
-Package pdftex.def Info: images/tudelft_logo.pdf used on input line 121.
-(pdftex.def)             Requested size: 30.69476pt x 11.38109pt.
-
-Overfull \hbox (65.36195pt too wide) has occurred while \output is active
- [][] \OT1/cmss/m/n/6 ([])  
- []
-
-
-Overfull \hbox (2.11945pt too wide) has occurred while \output is active
-[] 
- []
-
-[7
-
- <C:/Users/Kenneth/iccp-presentation-assignment-4/images/ex2_quasi_polynomial.p
-df>]
-Overfull \hbox (17.82637pt too wide) in paragraph at lines 141--141
-[]|  []  
- []
-
-File: images/tudelft_logo.pdf Graphic file (type pdf)
-<use images/tudelft_logo.pdf>
-Package pdftex.def Info: images/tudelft_logo.pdf used on input line 141.
-(pdftex.def)             Requested size: 30.69476pt x 11.38109pt.
-
-Overfull \hbox (65.36195pt too wide) has occurred while \output is active
- [][] \OT1/cmss/m/n/6 ([])  
- []
-
-
-Overfull \hbox (2.11945pt too wide) has occurred while \output is active
-[] 
- []
-
-[8
-
-]
-Overfull \hbox (17.82637pt too wide) in paragraph at lines 141--141
-[]|  []  
- []
-
-File: images/tudelft_logo.pdf Graphic file (type pdf)
-<use images/tudelft_logo.pdf>
-Package pdftex.def Info: images/tudelft_logo.pdf used on input line 141.
-(pdftex.def)             Requested size: 30.69476pt x 11.38109pt.
-
-Overfull \hbox (65.36195pt too wide) has occurred while \output is active
- [][] \OT1/cmss/m/n/6 ([])  
- []
-
-
-Overfull \hbox (2.11945pt too wide) has occurred while \output is active
-[] 
- []
-
-[9
-
-] (C:\Users\Kenneth\iccp-presentation-assignment-4\presentation.toc)
-Overfull \hbox (17.82637pt too wide) in paragraph at lines 143--143
-[]|  []  
- []
-
-File: images/tudelft_logo.pdf Graphic file (type pdf)
-<use images/tudelft_logo.pdf>
-Package pdftex.def Info: images/tudelft_logo.pdf used on input line 143.
-(pdftex.def)             Requested size: 30.69476pt x 11.38109pt.
-
-Overfull \hbox (65.36195pt too wide) has occurred while \output is active
- [][] \OT1/cmss/m/n/6 ([])  
- []
-
-
-Overfull \hbox (2.11945pt too wide) has occurred while \output is active
-[] 
- []
-
 [10
 
-] <images/ex3a_pp.pdf, id=378, 155.58125pt x 173.64874pt>
-File: images/ex3a_pp.pdf Graphic file (type pdf)
-
-<use images/ex3a_pp.pdf>
-Package pdftex.def Info: images/ex3a_pp.pdf used on input line 175.
-(pdftex.def)             Requested size: 128.60452pt x 143.54019pt.
-
-Overfull \hbox (18.2526pt too wide) in paragraph at lines 175--175
-[][]  
- []
-
-
-Overfull \hbox (17.82637pt too wide) in paragraph at lines 175--175
+]
+Overfull \hbox (17.82637pt too wide) in paragraph at lines 93--93
 []|  []  
  []
 
 File: images/tudelft_logo.pdf Graphic file (type pdf)
 <use images/tudelft_logo.pdf>
-Package pdftex.def Info: images/tudelft_logo.pdf used on input line 175.
+Package pdftex.def Info: images/tudelft_logo.pdf used on input line 93.
 (pdftex.def)             Requested size: 30.69476pt x 11.38109pt.
 
 Overfull \hbox (65.36195pt too wide) has occurred while \output is active
@@ -1259,26 +1236,24 @@ Overfull \hbox (2.11945pt too wide) has occurred while \output is active
 
 [11
 
- <C:/Users/Kenneth/iccp-presentation-assignment-4/images/ex3a_pp.pdf>]
-<images/ex3b_pp.pdf, id=415, 155.58125pt x 173.64874pt>
-File: images/ex3b_pp.pdf Graphic file (type pdf)
+]
+LaTeX Font Info:    Try loading font information for OMS+cmss on input line 99.
 
-<use images/ex3b_pp.pdf>
-Package pdftex.def Info: images/ex3b_pp.pdf used on input line 175.
-(pdftex.def)             Requested size: 128.60452pt x 143.54019pt.
-
-Overfull \hbox (18.2526pt too wide) in paragraph at lines 175--175
-[][]  
- []
+LaTeX Font Info:    No file OMScmss.fd. on input line 99.
 
 
-Overfull \hbox (17.82637pt too wide) in paragraph at lines 175--175
+LaTeX Font Warning: Font shape `OMS/cmss/m/n' undefined
+(Font)              using `OMS/cmsy/m/n' instead
+(Font)              for symbol `textbullet' on input line 99.
+
+
+Overfull \hbox (17.82637pt too wide) in paragraph at lines 99--99
 []|  []  
  []
 
 File: images/tudelft_logo.pdf Graphic file (type pdf)
 <use images/tudelft_logo.pdf>
-Package pdftex.def Info: images/tudelft_logo.pdf used on input line 175.
+Package pdftex.def Info: images/tudelft_logo.pdf used on input line 99.
 (pdftex.def)             Requested size: 30.69476pt x 11.38109pt.
 
 Overfull \hbox (65.36195pt too wide) has occurred while \output is active
@@ -1292,26 +1267,14 @@ Overfull \hbox (2.11945pt too wide) has occurred while \output is active
 
 [12
 
- <C:/Users/Kenneth/iccp-presentation-assignment-4/images/ex3b_pp.pdf>]
-<images/ex3c_pp.pdf, id=450, 155.58125pt x 173.64874pt>
-File: images/ex3c_pp.pdf Graphic file (type pdf)
-
-<use images/ex3c_pp.pdf>
-Package pdftex.def Info: images/ex3c_pp.pdf used on input line 175.
-(pdftex.def)             Requested size: 128.60452pt x 143.54019pt.
-
-Overfull \hbox (18.2526pt too wide) in paragraph at lines 175--175
-[][]  
- []
-
-
-Overfull \hbox (17.82637pt too wide) in paragraph at lines 175--175
+]
+Overfull \hbox (17.82637pt too wide) in paragraph at lines 107--107
 []|  []  
  []
 
 File: images/tudelft_logo.pdf Graphic file (type pdf)
 <use images/tudelft_logo.pdf>
-Package pdftex.def Info: images/tudelft_logo.pdf used on input line 175.
+Package pdftex.def Info: images/tudelft_logo.pdf used on input line 107.
 (pdftex.def)             Requested size: 30.69476pt x 11.38109pt.
 
 Overfull \hbox (65.36195pt too wide) has occurred while \output is active
@@ -1325,26 +1288,14 @@ Overfull \hbox (2.11945pt too wide) has occurred while \output is active
 
 [13
 
- <C:/Users/Kenneth/iccp-presentation-assignment-4/images/ex3c_pp.pdf>]
-<images/ex3d_pp.pdf, id=486, 155.58125pt x 173.64874pt>
-File: images/ex3d_pp.pdf Graphic file (type pdf)
-
-<use images/ex3d_pp.pdf>
-Package pdftex.def Info: images/ex3d_pp.pdf used on input line 175.
-(pdftex.def)             Requested size: 128.60452pt x 143.54019pt.
-
-Overfull \hbox (18.2526pt too wide) in paragraph at lines 175--175
-[][]  
- []
-
-
-Overfull \hbox (17.82637pt too wide) in paragraph at lines 175--175
+] (C:\Users\Kenneth\iccp-presentation-assignment-4\presentation.toc)
+Overfull \hbox (17.82637pt too wide) in paragraph at lines 109--109
 []|  []  
  []
 
 File: images/tudelft_logo.pdf Graphic file (type pdf)
 <use images/tudelft_logo.pdf>
-Package pdftex.def Info: images/tudelft_logo.pdf used on input line 175.
+Package pdftex.def Info: images/tudelft_logo.pdf used on input line 109.
 (pdftex.def)             Requested size: 30.69476pt x 11.38109pt.
 
 Overfull \hbox (65.36195pt too wide) has occurred while \output is active
@@ -1358,25 +1309,14 @@ Overfull \hbox (2.11945pt too wide) has occurred while \output is active
 
 [14
 
- <C:/Users/Kenneth/iccp-presentation-assignment-4/images/ex3d_pp.pdf>]
-File: images/ex3d_pp.pdf Graphic file (type pdf)
-
-<use images/ex3d_pp.pdf>
-Package pdftex.def Info: images/ex3d_pp.pdf used on input line 175.
-(pdftex.def)             Requested size: 128.60452pt x 143.54019pt.
-
-Overfull \hbox (18.2526pt too wide) in paragraph at lines 175--175
-[][]  
- []
-
-
-Overfull \hbox (17.82637pt too wide) in paragraph at lines 175--175
+]
+Overfull \hbox (17.82637pt too wide) in paragraph at lines 117--117
 []|  []  
  []
 
 File: images/tudelft_logo.pdf Graphic file (type pdf)
 <use images/tudelft_logo.pdf>
-Package pdftex.def Info: images/tudelft_logo.pdf used on input line 175.
+Package pdftex.def Info: images/tudelft_logo.pdf used on input line 117.
 (pdftex.def)             Requested size: 30.69476pt x 11.38109pt.
 
 Overfull \hbox (65.36195pt too wide) has occurred while \output is active
@@ -1391,244 +1331,16 @@ Overfull \hbox (2.11945pt too wide) has occurred while \output is active
 [15
 
 ]
-LaTeX Font Info:    Try loading font information for OMS+cmss on input line 187
-.
-LaTeX Font Info:    No file OMScmss.fd. on input line 187.
-
-
-LaTeX Font Warning: Font shape `OMS/cmss/m/n' undefined
-(Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbullet' on input line 187.
-
-
-Overfull \hbox (17.82637pt too wide) in paragraph at lines 187--187
-[]|  []  
- []
-
-File: images/tudelft_logo.pdf Graphic file (type pdf)
-<use images/tudelft_logo.pdf>
-Package pdftex.def Info: images/tudelft_logo.pdf used on input line 187.
-(pdftex.def)             Requested size: 30.69476pt x 11.38109pt.
-
-Overfull \hbox (65.36195pt too wide) has occurred while \output is active
- [][] \OT1/cmss/m/n/6 ([])  
- []
-
-
-Overfull \hbox (2.11945pt too wide) has occurred while \output is active
-[] 
- []
-
-[16
-
-]
-Overfull \hbox (17.82637pt too wide) in paragraph at lines 187--187
-[]|  []  
- []
-
-File: images/tudelft_logo.pdf Graphic file (type pdf)
-<use images/tudelft_logo.pdf>
-Package pdftex.def Info: images/tudelft_logo.pdf used on input line 187.
-(pdftex.def)             Requested size: 30.69476pt x 11.38109pt.
-
-Overfull \hbox (65.36195pt too wide) has occurred while \output is active
- [][] \OT1/cmss/m/n/6 ([])  
- []
-
-
-Overfull \hbox (2.11945pt too wide) has occurred while \output is active
-[] 
- []
-
-[17
-
-]
-Overfull \hbox (17.82637pt too wide) in paragraph at lines 187--187
-[]|  []  
- []
-
-File: images/tudelft_logo.pdf Graphic file (type pdf)
-<use images/tudelft_logo.pdf>
-Package pdftex.def Info: images/tudelft_logo.pdf used on input line 187.
-(pdftex.def)             Requested size: 30.69476pt x 11.38109pt.
-
-Overfull \hbox (65.36195pt too wide) has occurred while \output is active
- [][] \OT1/cmss/m/n/6 ([])  
- []
-
-
-Overfull \hbox (2.11945pt too wide) has occurred while \output is active
-[] 
- []
-
-[18
-
-] (C:\Users\Kenneth\iccp-presentation-assignment-4\presentation.toc)
-Overfull \hbox (17.82637pt too wide) in paragraph at lines 189--189
-[]|  []  
- []
-
-File: images/tudelft_logo.pdf Graphic file (type pdf)
-<use images/tudelft_logo.pdf>
-Package pdftex.def Info: images/tudelft_logo.pdf used on input line 189.
-(pdftex.def)             Requested size: 30.69476pt x 11.38109pt.
-
-Overfull \hbox (65.36195pt too wide) has occurred while \output is active
- [][] \OT1/cmss/m/n/6 ([])  
- []
-
-
-Overfull \hbox (2.11945pt too wide) has occurred while \output is active
-[] 
- []
-
-[19
-
-] <images/abadab-anti-theta-01.pdf, id=664, 370.38374pt x 415.5525pt>
-File: images/abadab-anti-theta-01.pdf Graphic file (type pdf)
-
-<use images/abadab-anti-theta-01.pdf>
-Package pdftex.def Info: images/abadab-anti-theta-01.pdf used on input line 201
-.
-(pdftex.def)             Requested size: 142.26378pt x 159.61092pt.
-
-Overfull \hbox (17.82637pt too wide) in paragraph at lines 201--201
-[]|  []  
- []
-
-File: images/tudelft_logo.pdf Graphic file (type pdf)
-<use images/tudelft_logo.pdf>
-Package pdftex.def Info: images/tudelft_logo.pdf used on input line 201.
-(pdftex.def)             Requested size: 30.69476pt x 11.38109pt.
-
-Overfull \hbox (65.36195pt too wide) has occurred while \output is active
- [][] \OT1/cmss/m/n/6 ([])  
- []
-
-
-Overfull \hbox (2.11945pt too wide) has occurred while \output is active
-[] 
- []
-
-[20
-
- <C:/Users/Kenneth/iccp-presentation-assignment-4/images/abadab-anti-theta-01.p
-df>] (C:\Users\Kenneth\iccp-presentation-assignment-4\presentation.toc)
-Overfull \hbox (17.82637pt too wide) in paragraph at lines 205--205
-[]|  []  
- []
-
-File: images/tudelft_logo.pdf Graphic file (type pdf)
-<use images/tudelft_logo.pdf>
-Package pdftex.def Info: images/tudelft_logo.pdf used on input line 205.
-(pdftex.def)             Requested size: 30.69476pt x 11.38109pt.
-
-Overfull \hbox (65.36195pt too wide) has occurred while \output is active
- [][] \OT1/cmss/m/n/6 ([])  
- []
-
-
-Overfull \hbox (2.11945pt too wide) has occurred while \output is active
-[] 
- []
-
-[21
-
-]
-Overfull \hbox (17.82637pt too wide) in paragraph at lines 221--221
-[]|  []  
- []
-
-File: images/tudelft_logo.pdf Graphic file (type pdf)
-<use images/tudelft_logo.pdf>
-Package pdftex.def Info: images/tudelft_logo.pdf used on input line 221.
-(pdftex.def)             Requested size: 30.69476pt x 11.38109pt.
-
-Overfull \hbox (65.36195pt too wide) has occurred while \output is active
- [][] \OT1/cmss/m/n/6 ([])  
- []
-
-
-Overfull \hbox (2.11945pt too wide) has occurred while \output is active
-[] 
- []
-
-[22
-
-]
-Overfull \hbox (17.82637pt too wide) in paragraph at lines 221--221
-[]|  []  
- []
-
-File: images/tudelft_logo.pdf Graphic file (type pdf)
-<use images/tudelft_logo.pdf>
-Package pdftex.def Info: images/tudelft_logo.pdf used on input line 221.
-(pdftex.def)             Requested size: 30.69476pt x 11.38109pt.
-
-Overfull \hbox (65.36195pt too wide) has occurred while \output is active
- [][] \OT1/cmss/m/n/6 ([])  
- []
-
-
-Overfull \hbox (2.11945pt too wide) has occurred while \output is active
-[] 
- []
-
-[23
-
-] (C:\Users\Kenneth\iccp-presentation-assignment-4\presentation.toc)
-Overfull \hbox (17.82637pt too wide) in paragraph at lines 223--223
-[]|  []  
- []
-
-File: images/tudelft_logo.pdf Graphic file (type pdf)
-<use images/tudelft_logo.pdf>
-Package pdftex.def Info: images/tudelft_logo.pdf used on input line 223.
-(pdftex.def)             Requested size: 30.69476pt x 11.38109pt.
-
-Overfull \hbox (65.36195pt too wide) has occurred while \output is active
- [][] \OT1/cmss/m/n/6 ([])  
- []
-
-
-Overfull \hbox (2.11945pt too wide) has occurred while \output is active
-[] 
- []
-
-[24
-
-]
-Overfull \hbox (17.82637pt too wide) in paragraph at lines 231--231
-[]|  []  
- []
-
-File: images/tudelft_logo.pdf Graphic file (type pdf)
-<use images/tudelft_logo.pdf>
-Package pdftex.def Info: images/tudelft_logo.pdf used on input line 231.
-(pdftex.def)             Requested size: 30.69476pt x 11.38109pt.
-
-Overfull \hbox (65.36195pt too wide) has occurred while \output is active
- [][] \OT1/cmss/m/n/6 ([])  
- []
-
-
-Overfull \hbox (2.11945pt too wide) has occurred while \output is active
-[] 
- []
-
-[25
-
-]
 \tf@nav=\write6
 \tf@toc=\write7
 \tf@snm=\write8
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 233.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 233.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 119.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 119.
  (C:\Users\Kenneth\iccp-presentation-assignment-4\presentation.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 233.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 233.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 119.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 119.
 Package rerunfilecheck Info: File `presentation.out' has not changed.
-(rerunfilecheck)             Checksum: 9F8D41884F1E2CB8C8CA0A372FEF18F6;398.
+(rerunfilecheck)             Checksum: 1C5E4D25B36DA365C8E15EA4A2DB317D;123.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -1637,36 +1349,30 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 233.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 119.
  ) 
 Here is how much of TeX's memory you used:
- 16432 strings out of 493921
- 313202 string characters out of 3144870
- 384462 words of memory out of 3000000
- 19236 multiletter control sequences out of 15000+200000
- 17696 words of font info for 63 fonts, out of 3000000 for 9000
+ 16259 strings out of 493921
+ 308904 string characters out of 3144870
+ 380462 words of memory out of 3000000
+ 19102 multiletter control sequences out of 15000+200000
+ 13919 words of font info for 49 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 56i,22n,58p,477b,906s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 56i,17n,58p,477b,669s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C
 :/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/
-Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Pr
-ogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Progr
-am Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program 
-Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Fil
-es (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (
-x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Program Files (x8
-6)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Program Files (x86)
-/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Program Files (x86)/Mi
-KTeX 2.9/fonts/type1/public/amsfonts/cm/cmssi10.pfb><C:/Program Files (x86)/MiK
-TeX 2.9/fonts/type1/public/amsfonts/cm/cmssi8.pfb><C:/Program Files (x86)/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 
-2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files (x86)/MiKTeX 2.9
-/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files (x86)/MiKTeX 2.9/f
-onts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on presentation.pdf (25 pages, 1157337 bytes).
+Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Pr
+ogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Prog
+ram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Program
+ Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssi10.pfb><C:/Program 
+Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssi8.pfb><C:/Program Fi
+les (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program File
+s (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files (
+x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on presentation.pdf (15 pages, 956537 bytes).
 PDF statistics:
- 911 PDF objects out of 1000 (max. 8388607)
- 58 named destinations out of 1000 (max. 500000)
- 311 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 501 PDF objects out of 1000 (max. 8388607)
+ 34 named destinations out of 1000 (max. 500000)
+ 177 words of extra memory for PDF output out of 10000 (max. 10000000)
 
