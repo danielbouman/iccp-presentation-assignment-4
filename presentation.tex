@@ -60,11 +60,18 @@
 \end{frame}
 
 \begin{frame}\frametitle{Finite difference wave equation}
+	\begin{equation*}
+	\frac{\partial^2 y}{\partial t^2} = c^2\frac{\partial^2 y}{\partial x^2}-\kappa^2\frac{\partial^4y}{\partial x^4}-2b_1\frac{\partial y}{\partial t} + 2b_2 \frac{\partial^3y}{\partial x^2\partial t}
+	\end{equation*}
 	\begin{gather*}
-	\frac{\partial^2 y}{\partial t^2} = c^2\frac{\partial^2 y}{\partial x^2}-\kappa^2\frac{\partial^4y}{\partial x^4}-2b_1\frac{\partial y}{\partial t} + 2b_2 \frac{\partial^3y}{\partial x^2\partial t}\\
-y_n^{t+1} = a_1\left(y_{n+2}^t+y_{n-2}^t\right)+a_2\left(y_{n+1}^t+y_{n-1}^t\right)+a_3y_n^t\\
-+a_4y_n^{t-1}+a_5\left(y_{n+1}^{t-1}+y_{n-1}^{t-1}\right)
-\end{gather*}
+	    y_n^{t+1} 
+	    = a_1\left(y_{n+2}^t+y_{n-2}^t\right)+a_2\left(y_{n+1}^t+y_{n-1}^t\right)+a_3y_n^t\\
+	    +a_4y_n^{t-1}+a_5\left(y_{n+1}^{t-1}+y_{n-1}^{t-1}\right)
+    \end{gather*}
+\end{frame}
+
+\begin{frame}\frametitle{Parameters}
+    harmonics
 \end{frame}
 
 \begin{frame}\frametitle{Hammer strike}
@@ -75,6 +82,12 @@ Hammer-string interaction:\\
 Hammer release from the string, important for 'plucking' or 'striking' the string.
 \end{frame}
 
+\begin{frame}\frametitle{Frequency spectrum}
+\begin{minipage}{1\textwidth}
+		% insert picture (pdf file)
+		\includegraphics[width=\textwidth]{images/freq.pdf}
+	\end{minipage}
+\end{frame}
 
 \begin{frame}\frametitle{Damper simulation}
 Cutoff sounds unnatural
